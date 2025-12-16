@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://github.com/Rohitphani">
-    <img src="https://komarev.com/ghpvc/?username=Rohitphani&label=Profile%20views&color=0e75b6&style=flat" alt="Rohitphani" />
   </a>
 </p>
 
