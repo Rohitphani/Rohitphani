@@ -79,18 +79,10 @@
 </p>
 
 ---
-## 📈 Contribution Streak  
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Rohitphani&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN  
+- 💼 LinkedIn: https://www.linkedin.com/in/rohit-chillara 
 - 📧 Email: **rohitchillara2003@gmail.com**  
 - 🌐 Portfolio: https://Rohitphani.github.io *(optional)*  
 
