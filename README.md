@@ -84,7 +84,6 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/rohit-chillara 
 - 📧 Email: **rohitchillara2003@gmail.com**  
-- 🌐 Portfolio: https://Rohitphani.github.io *(optional)*  
 
 ---
 
